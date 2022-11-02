@@ -1,6 +1,18 @@
 # Reflectie
 
 
+## Lena 
+
+Wat heb ik nieuw geleerd?
+Hoe ik git merch en branch gebruik in github.
+
+Wat was nieuw voor me?
+Github was nieuw voor me hoe je het gebruikt.
+
+Waarvan zou ik meeer willen weten?
+Hoe je branches gebruikt.
+
+
 ## Luuk
 
 hoe ik op photoshop mensen er in en uit knip.
@@ -32,5 +44,3 @@ Ik wist dat github een ding was maar ik wist niet wat je ermee kon.
 
 Waar wil ik meer weten?
 Github lijkt me intersant om te meesteren 
-
-
