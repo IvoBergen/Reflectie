@@ -7,8 +7,8 @@ Wat wist ik al
 hoe je via github desktop met github kan werken
 
 Waarvan wil je meer van weten
-Hoe je makkelijk en snel in de command prompt kan werken
-=======
+hoe je makkelijk en snel in de command prompt kan werken
+
 
 ## Ivo
 
