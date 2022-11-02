@@ -1,6 +1,6 @@
 # Reflectie
 
-##Luuk
+## Luuk
 
 hoe ik op photoshop mensen er in en uit knip.
 hoe ik globaal moest lezen.
